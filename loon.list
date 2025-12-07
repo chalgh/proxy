@@ -1,13 +1,13 @@
 #domain-suffix, voice.telephony.goog
 #domain-suffix, liminalnet.site
-domain-suffix, xxlb.net
-domain-suffix, 51cg.fun
-domain-suffix, cg51.com
-domain-keyword, emby
-#domain-suffix, 123av.com
-domain-suffix, coomer.su
-domain-suffix, fmta.boo
-#domain-suffix, taiav.com
-domain-suffix, miaona.org
-domain-suffix, 一分机场.com
-domain-suffix, 赔钱机场.com
+domain-suffix,xxlb.net
+domain-suffix,51cg.fun
+domain-suffix,cg51.com
+domain-keyword,emby
+#domain-suffix,123av.com
+domain-suffix,coomer.su
+domain-suffix,fmta.boo
+#domain-suffix,taiav.com
+domain-suffix,miaona.org
+domain-suffix,一分机场.com
+domain-suffix,赔钱机场.com
