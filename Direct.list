@@ -33,4 +33,6 @@ DOMAIN-SUFFIX,jellyfin.asia
 DOMAIN-SUFFIX,as174.de
 DOMAIN-SUFFIX,bili.rip
 DOMAIN-SUFFIX,xhscdn.net
+DOMAIN,tj-pod1-smp-device.apple.com
+DOMAIN,tj-pod1-smp-device-asset.apple.com
 
