@@ -1,2 +1,4 @@
-domain-keyword,emby
-domain-keyword,hxd
+#domain-keyword,emby
+#domain-keyword,hxd
+DOMAIN-KEYWORD,emby
+DOMAIN-SUFFIX,hxd
