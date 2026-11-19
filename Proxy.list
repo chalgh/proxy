@@ -38,7 +38,7 @@ DOMAIN-SUFFIX,miru.cloud
 DOMAIN-SUFFIX,fmta.boo
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,sleazyfork.org
-DOMAIN-KEYWORD,emby
+#DOMAIN-KEYWORD,emby
 DOMAIN-SUFFIX,liminalnet.site
 DOMAIN-SUFFIX,xxlb.net
 DOMAIN-SUFFIX,赔钱机场.com
